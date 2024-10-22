@@ -1,3 +1,23 @@
-h1{
-    color: red;
+body{
+    background-color: blue
+}
+
+#container{
+    background-color: rgb(241, 0, 0);
+    margin-top: 0%;
+    border-radius: solid red;
+    margin: 0px;
+    width: 100%;
+    height: 200px;
+}
+
+#letracontainer{
+    color: blue;
+    position: relative;
+    left: 50%;
+}
+
+imagemLogotipo{
+    width: 20px;
+    height: 30px;
 }
